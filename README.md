@@ -55,6 +55,6 @@ The `webxdc.js` lib also needs to be included in your `index.html`:
 </html>
 ```
 
-Check [dist/highscores.d.ts](https://github.com/webxdc/highscores/blob/main/dist/highscores.d.ts) file for documentation of the available API.
+Check [src/highscores.d.ts](https://github.com/webxdc/highscores/blob/main/src/highscores.d.ts) file for documentation of the available API.
 
 For a full example check the [example/index.html](https://github.com/webxdc/highscores/blob/main/example/index.html) file.
